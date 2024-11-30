@@ -1,1 +1,1 @@
-.
+Kullanıcıların sağlık hedeflerine ulaşmalarını destekliyor ve bu süreçte günlük aktivitelerini düzenli bir şekilde kaydetmelerine olanak tanıyor. Uyku süresi, egzersiz dakikaları, su tüketimi gibi verileri analiz ederek hedeflere uygun kişiselleştirilmiş tavsiyeler sunuyor. Haftalık ilerleme raporlarıyla kullanıcıların performansını değerlendiriyor ve gelişimlerini daha net bir şekilde takip etmelerine yardımcı oluyor.
